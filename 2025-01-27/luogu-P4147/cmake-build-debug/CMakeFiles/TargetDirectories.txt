@@ -1,0 +1,3 @@
+C:/Users/tim/Desktop/acm/2025-01-27/luogu-P4147/cmake-build-debug/CMakeFiles/luogu-P4147.dir
+C:/Users/tim/Desktop/acm/2025-01-27/luogu-P4147/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tim/Desktop/acm/2025-01-27/luogu-P4147/cmake-build-debug/CMakeFiles/rebuild_cache.dir

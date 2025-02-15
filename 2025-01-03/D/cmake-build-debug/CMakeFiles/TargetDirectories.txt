@@ -1,0 +1,3 @@
+C:/Users/tim/Desktop/acm/2025-01-03/D/cmake-build-debug/CMakeFiles/D.dir
+C:/Users/tim/Desktop/acm/2025-01-03/D/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tim/Desktop/acm/2025-01-03/D/cmake-build-debug/CMakeFiles/rebuild_cache.dir
