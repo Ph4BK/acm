@@ -1,3 +1,0 @@
-C:/Users/tim/Desktop/acm/2025-02-14/luogu-P2503/cmake-build-debug/CMakeFiles/luogu_P2503.dir
-C:/Users/tim/Desktop/acm/2025-02-14/luogu-P2503/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/tim/Desktop/acm/2025-02-14/luogu-P2503/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-C:/Users/tim/Desktop/acm/2025-01-05/D_qsort/cmake-build-debug/CMakeFiles/D_qsort.dir
-C:/Users/tim/Desktop/acm/2025-01-05/D_qsort/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/tim/Desktop/acm/2025-01-05/D_qsort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
